@@ -6,3 +6,5 @@ My first repository
  ----------------------
  
  Hello World.  This is my first very-own GitHub repository.  Congratulations to me, I'm learning!
+
+End of line.
